@@ -1,0 +1,85 @@
+body{
+	 background-image: url(https://i.pinimg.com/564x/48/3b/8b/483b8bb6946360c62ffe5c4273b1c947.jpg);
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+  	 background-size: 100% 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: none;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: violet;
+  color: white;
+}
+
+h1 {
+	color:white ;
+	font-size: 600%;
+	text-align:center;
+}
+p{
+	color:white ;
+	font-size: 200%;
+	text-align:center;
+}
+.button1 {
+  
+  background-image: url(https://tummytrip.com/wp-content/uploads/2019/12/Cheese-Pizza-500x375.jpg);
+  border: none;
+  color: black;
+  padding: 140px 165px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 16px 8px;
+  cursor: pointer;
+}
+.button2 {
+  background-image: url(https://cdn.shopify.com/s/files/1/1433/3172/products/01-bdayca_large.jpg?v=1471193728);
+  border: none;
+  color: darkviolet;
+  padding: 140px 160px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 16px 8px;
+  cursor: pointer;
+}  
+.button3 {
+  background-image: url(https://images.everydayhealth.com/images/diet-nutrition/all-about-broccoli-nutrition-facts-health-benefits-uses-and-more-722x406.jpg?w=1110);
+  border: none;
+  color: white;
+  padding: 140px 120px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 16px 8px;
+  cursor: pointer;
+}
+
+
